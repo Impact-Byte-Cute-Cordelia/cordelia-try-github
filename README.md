@@ -5,7 +5,7 @@ https://github.com/Impact-Byte-Cute-Cordelia/cordelia-try-github.git
 ## cordelia sudah bisa ngeclone
 
 1. Thoriq
-2. Khairavi
+2. Khairavi R
 3. Bayu
 4. 
 5. Dani

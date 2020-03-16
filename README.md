@@ -6,3 +6,4 @@ https://github.com/Impact-Byte-Cute-Cordelia/cordelia-try-github.git
 
 1. Thoriq
 2. Bayu
+3. thoriq lagi

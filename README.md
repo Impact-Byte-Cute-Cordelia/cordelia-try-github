@@ -7,7 +7,7 @@ https://github.com/Impact-Byte-Cute-Cordelia/cordelia-try-github.git
 1. Thoriq
 2. Khairavi R
 3. Bayu
-4. 
+4. Hadyd
 5. Dani
 6. Miqbal
 7. Dani

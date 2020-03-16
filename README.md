@@ -4,4 +4,4 @@ https://github.com/Impact-Byte-Cute-Cordelia/cordelia-try-github.git
 
 ## coredlia sudah bisa ngeclone
 
-1. Thoriq
+8. Miqbal
